@@ -1,4 +1,4 @@
-|| Test name | Cycle | Operations | Errors | Last error Description |
+| Test name | Cycle | Operations | Errors | Last error Description |
 |-----------|---|---|---|---|
 |Cpu Temp|Мониторинг 15 мин|Измерение температуры|0|Ядро 1: ~45°C, Ядро 2: ~47°C. Пиковая под нагрузкой: ~67°C.
 |Cpu Coverage|1 цикл, 15 мин|OCCT: CPU Linpack|0|Тест пройден.|
